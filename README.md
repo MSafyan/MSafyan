@@ -89,7 +89,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!-- 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) -->
+1. 🗣 Commented on [#6](https://github.com/DevWurm/webpack-war-plugin/issues/6) in [DevWurm/webpack-war-plugin](https://github.com/DevWurm/webpack-war-plugin)
 1. 🎉 Merged PR [#13](https://github.com/MSafyan/ecloth) in [MSafyan/ecloth](https://github.com/MSafyan/MSafyan)
 1. 💪 Opened PR [#13](https://github.com/MSafyan/LaravelEcom) in [MSafyan/LaravelEcom](https://github.com/MSafyan/MSafyan)
 1. 🎉 Merged PR [#12](https://github.com/MSafyan/portfolio) in [/MSafyan/portfolio](https://github.com/MSafyan/MSafyan)
