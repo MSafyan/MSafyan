@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/DevWurm/webpack-war-plugin/issues/6) in [DevWurm/webpack-war-plugin](https://github.com/DevWurm/webpack-war-plugin)
+1. ❗️ Opened issue [#1171](https://github.com/svgdotjs/svg.js/issues/1171) in [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)
 1. 🎉 Merged PR [#13](https://github.com/MSafyan/ecloth) in [MSafyan/ecloth](https://github.com/MSafyan/MSafyan)
 1. 💪 Opened PR [#13](https://github.com/MSafyan/LaravelEcom) in [MSafyan/LaravelEcom](https://github.com/MSafyan/MSafyan)
 1. 🎉 Merged PR [#12](https://github.com/MSafyan/portfolio) in [/MSafyan/portfolio](https://github.com/MSafyan/MSafyan)
