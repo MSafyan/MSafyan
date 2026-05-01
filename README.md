@@ -68,13 +68,6 @@ Sports analytics platform processing rugby league data with custom performance m
 - AWS Certified Solutions Architect - Associate (2024)
 - HashiCorp Certified: Terraform Associate (2024)
 
-## GitHub Overview
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MSafyan&show_icons=true&hide_border=true&rank_icon=github" alt="MSafyan GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSafyan&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contact
 
 - Email: [msafyan080@gmail.com](mailto:msafyan080@gmail.com)
