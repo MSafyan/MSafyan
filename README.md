@@ -17,7 +17,7 @@ I build backend systems, cloud infrastructure, AI-powered features, and enterpri
 
 ## Impact Snapshot
 
-- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **99.9% cost reduction** through model and token optimization.
+- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **95% cost reduction** through model and token optimization.
 - Shipped AWS-based marketplace services for Helpicon covering **payments, chat, infrastructure automation, and microservice delivery**.
 - Delivered Azure warehouse and ETL systems for Palmetto Air Balance with **20+ pipelines**, reconciliation workflows, and operational dashboards.
 - Built large-scale retail data integrations for Pink Chicken, processing **millions of records** across Shopify, Apparel Magic, and Azure SQL.
