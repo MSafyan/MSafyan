@@ -1,112 +1,81 @@
-### Hi there, I'm Safyan - aka [sufi][website] 👋
+# Muhammad Safyan
 
-[![Website](https://img.shields.io/website?label=msafyan.me&style=for-the-badge&url=http%3A%2F%2Fmsafyan.me)](http://msafyan.me)
+**Full-Stack & Cloud Engineer**
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+I build backend systems, cloud infrastructure, AI-powered features, and enterprise data pipelines. My recent work spans AWS microservices, Azure data platforms, and OpenAI-based recommendation systems, with a focus on shipping production-ready systems that are scalable, cost-aware, and maintainable.
 
-## I'm a Student, Developer, and Anime Watcher!!
+[![Portfolio](https://img.shields.io/badge/Portfolio-safyan--portfolio.vercel.app-0f172a?style=for-the-badge)](https://safyan-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-msafyan080%40gmail.com-1d4ed8?style=for-the-badge)](mailto:msafyan080@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-safyan--akram-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safyan-akram/)
 
-- 🔭 Playing around with laravel and machine learning!
-- 🌱 I’m currently learning everything 🤣
-- 👯 Trying different Cloud providers like AWS and Azure
-- 🥅 2020 Goals: Learning new stuff and helping other in software development
-- ⚡ Fun fact: I love watching Anime
+## Focus Areas
 
-### Spotify Playing 🎧
+- Backend engineering with Node.js, NestJS, TypeScript, PostgreSQL, and microservices
+- Cloud and DevOps across AWS, Terraform, Docker, Kubernetes, and CI/CD
+- AI and LLM systems using OpenAI, LangChain, Pinecone, embeddings, and semantic search
+- Data engineering with Azure Data Factory, Azure SQL, Databricks, warehousing, and ETL
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+## Impact Snapshot
 
-### Connect with me:
+- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **99.9% cost reduction** through model and token optimization.
+- Shipped AWS-based marketplace services for Helpicon covering **payments, chat, infrastructure automation, and microservice delivery**.
+- Delivered Azure warehouse and ETL systems for Palmetto Air Balance with **20+ pipelines**, reconciliation workflows, and operational dashboards.
+- Built large-scale retail data integrations for Pink Chicken, processing **millions of records** across Shopify, Apparel Magic, and Azure SQL.
 
-[<img align="left" alt="msafyan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+## Selected Work
 
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+### Abundance Movement
+AI-powered social learning platform with semantic user matching, personality-based recommendations, and content intelligence. Built with NestJS, PostgreSQL, OpenAI, LangChain, and Pinecone.
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Helpicon
+Marketplace platform backend on AWS with payment flows, Twilio Conversations, deployment automation, and Terraform-managed infrastructure.
 
-<br />
+### Palmetto Air Balance
+Enterprise Azure data warehouse integrating NetSuite, Air1, and UKG with ETL pipelines, MERGE-based loading, monitoring, and Power BI reporting.
 
-### Languages and Tools:
+### Pink Chicken
+Retail data platform unifying 10+ Shopify stores with Apparel Magic WMS, including incremental syncs, warehousing, and inventory reporting.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+### CVR Sports Analytics
+Sports analytics platform processing rugby league data with custom performance metrics, advanced filtering, and interactive chart-based reporting.
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./images/amazonaws.svg" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+## Public Code Highlights
 
-<br />
-<br />
+- [portfolio](https://github.com/MSafyan/portfolio) - personal portfolio site and current public profile source
+- [abundanceCoachVideoForm](https://github.com/MSafyan/abundanceCoachVideoForm) - public project from the Abundance ecosystem
+- [appleLogin](https://github.com/MSafyan/appleLogin) - focused implementation example
+- [ansible-for-devops](https://github.com/MSafyan/ansible-for-devops) - infrastructure and DevOps-oriented public repository
 
----
+## Stack
 
-<!-- ### 📺 Latest YouTube Videos -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-0f766e?style=flat-square)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-ff3621?style=flat-square&logo=databricks&logoColor=white)
 
-<!-- YOUTUBE:START -->
-- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
-- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-<!-- YOUTUBE:END -->
+## Certifications
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
+- AWS Certified Solutions Architect - Associate (2024)
+- HashiCorp Certified: Terraform Associate (2024)
 
----
+## GitHub Overview
 
-<!-- ### 📕 Latest Blog Posts -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MSafyan&show_icons=true&hide_border=true&rank_icon=github" alt="MSafyan GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSafyan&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+## Contact
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1171](https://github.com/svgdotjs/svg.js/issues/1171) in [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)
-1. 🎉 Merged PR [#13](https://github.com/MSafyan/ecloth) in [MSafyan/ecloth](https://github.com/MSafyan/MSafyan)
-1. 💪 Opened PR [#13](https://github.com/MSafyan/LaravelEcom) in [MSafyan/LaravelEcom](https://github.com/MSafyan/MSafyan)
-1. 🎉 Merged PR [#12](https://github.com/MSafyan/portfolio) in [/MSafyan/portfolio](https://github.com/MSafyan/MSafyan)
-1. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [/MSafyan/MSafyan](https://github.com/MSafyan/MSafyan)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MSafyan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MSafyan&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: http://msafyan.me
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/safyan_xd
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+- Email: [msafyan080@gmail.com](mailto:msafyan080@gmail.com)
+- LinkedIn: [linkedin.com/in/safyan-akram](https://www.linkedin.com/in/safyan-akram/)
