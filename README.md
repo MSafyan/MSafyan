@@ -1,62 +1,80 @@
 # Muhammad Safyan
 
-**Full-Stack & Cloud Engineer**
+**Backend, Cloud, AI & Data Engineer**
 
-I build backend systems, cloud infrastructure, AI-powered features, and enterprise data pipelines. My recent work spans AWS microservices, Azure data platforms, and OpenAI-based recommendation systems, with a focus on shipping production-ready systems that are scalable, cost-aware, and maintainable.
+I help clients build production systems that connect messy business processes to reliable software. My work spans backend platforms, cloud infrastructure, AI-powered product features, and enterprise data systems, with a focus on solutions that are scalable, cost-aware, and practical to operate.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-safyan--portfolio.vercel.app-0f172a?style=for-the-badge)](https://safyan-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-msafyan080%40gmail.com-1d4ed8?style=for-the-badge)](mailto:msafyan080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safyan--akram-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safyan-akram/)
 
-## Focus Areas
+## What I Build
 
-- Backend engineering with Node.js, NestJS, TypeScript, PostgreSQL, and microservices
-- Cloud and DevOps across AWS, Terraform, Docker, Kubernetes, and CI/CD
-- AI and LLM systems using OpenAI, LangChain, Pinecone, embeddings, and semantic search
-- Data engineering with Azure Data Factory, Azure SQL, Databricks, warehousing, and ETL
+- Backend systems for marketplaces, SaaS products, internal tools, and API-heavy client platforms
+- Cloud and DevOps infrastructure across AWS, Docker, Terraform, Kubernetes, CI/CD, and operational automation
+- AI and LLM features such as semantic matching, recommendations, summarization, embeddings, and vector search
+- Data and ETL platforms on Azure for reporting, reconciliation, warehousing, and cross-system analytics
 
-## Impact Snapshot
+## Selected Impact
 
-- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **95% cost reduction** through model and token optimization.
-- Shipped AWS-based marketplace services for Helpicon covering **payments, chat, infrastructure automation, and microservice delivery**.
-- Delivered Azure warehouse and ETL systems for Palmetto Air Balance with **20+ pipelines**, reconciliation workflows, and operational dashboards.
-- Built large-scale retail data integrations for Pink Chicken, processing **millions of records** across Shopify, Apparel Magic, and Azure SQL.
+- **Abundance Movement:** Built **11 AI services** for semantic user matching, video recommendations, content analysis, and chat summarization, while reducing LLM cost by **95%** through model selection, token controls, and cost monitoring.
+- **Palmetto Air Balance:** Delivered an Azure data warehouse across **NetSuite, Air1, and UKG** with **50+ pipelines**, cross-system reconciliation, backlog and revenue dashboards, and reporting for a **$40M+ project portfolio**.
+- **Pink Chicken:** Unified **Shopify and Apparel Magic** across **10+ retail locations**, resolving REST vs GraphQL inventory gaps and gift-card refund classification issues to produce more trustworthy sales and inventory analytics.
+- **Helpicon:** Shipped AWS-based marketplace services covering payments, messaging, infrastructure automation, and production delivery workflows for a multi-role platform.
 
 ## Selected Work
 
 ### Abundance Movement
-AI-powered social learning platform with semantic user matching, personality-based recommendations, and content intelligence. Built with NestJS, PostgreSQL, OpenAI, LangChain, and Pinecone.
-
-### Helpicon
-Marketplace platform backend on AWS with payment flows, Twilio Conversations, deployment automation, and Terraform-managed infrastructure.
+AI-powered social learning platform with semantic matching, video recommendations, content intelligence, and weekly chat summarization.
+Technical signal: built a multi-model OpenAI service layer, Pinecone vector namespaces, structured prompt workflows, and cost controls that cut projected LLM spend by 95%.
 
 ### Palmetto Air Balance
-Enterprise Azure data warehouse integrating NetSuite, Air1, and UKG with ETL pipelines, MERGE-based loading, monitoring, and Power BI reporting.
+Enterprise reporting platform giving leadership real-time visibility into revenue, backlog, utilization, and project performance.
+Technical signal: built Azure SQL and ADF pipelines across NetSuite, Air1, and UKG, with dynamic MERGE-based loading, data quality controls, reconciliation logic, and backlog snapshot reporting.
 
 ### Pink Chicken
-Retail data platform unifying 10+ Shopify stores with Apparel Magic WMS, including incremental syncs, warehousing, and inventory reporting.
+Retail data platform unifying e-commerce, POS, warehouse, and inventory workflows into a single analytics layer for planning and operations.
+Technical signal: built Azure ETL pipelines across Shopify and Apparel Magic, handled rate limits and pagination, bridged REST and GraphQL inventory differences, and fixed gift-card refund classification mismatches in sales reporting.
+
+### Helpicon
+Marketplace backend for bookings, payments, messaging, and internal operations on AWS.
+Technical signal: worked across Node.js services, PostgreSQL, Stripe, Swish, Twilio, Docker, Terraform, and CI/CD automation for production delivery.
 
 ### CVR Sports Analytics
-Sports analytics platform processing rugby league data with custom performance metrics, advanced filtering, and interactive chart-based reporting.
+Analytics platform for rugby league reporting used to explore team and player performance across competitions and seasons.
+Technical signal: supported data ingestion, reporting workflows, and read-optimized analytics patterns for domain-specific metrics and interactive reporting.
 
-## Public Code Highlights
+## How I Add Value
 
-- [portfolio](https://github.com/MSafyan/portfolio) - personal portfolio site and current public profile source
-- [abundanceCoachVideoForm](https://github.com/MSafyan/abundanceCoachVideoForm) - public project from the Abundance ecosystem
-- [appleLogin](https://github.com/MSafyan/appleLogin) - focused implementation example
-- [ansible-for-devops](https://github.com/MSafyan/ansible-for-devops) - infrastructure and DevOps-oriented public repository
+- I connect multiple systems that were not designed to work well together, then turn them into stable business workflows.
+- I build automations that reduce manual reporting, repetitive operations, and fragile handoffs between teams.
+- I debug data mismatches and integration edge cases instead of masking them with surface-level dashboards.
+- I optimize for reliability and cost, especially where cloud usage, APIs, or LLMs can quietly become expensive.
+- I aim for systems that product and operations teams can actually use without needing constant engineering intervention.
+
+## Pinned Repositories
+
+- [evalutionDeligationRouter](https://github.com/MSafyan/evalutionDeligationRouter) - Skeleton for AI routing and evaluation-focused repository
 
 ## Stack
+
+**Backend & Platform**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=ff9900)
 ![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**AI & Data**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0f766e?style=flat-square)
