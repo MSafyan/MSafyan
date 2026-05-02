@@ -17,7 +17,7 @@ I build backend systems, cloud infrastructure, AI-powered features, and enterpri
 
 ## Impact Snapshot
 
-- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **95% cost reduction** through model and token optimization.
+- Built AI matching and recommendation services for Abundance Movement using OpenAI, LangChain, and Pinecone, driving about **99.9% cost reduction** through model and token optimization.
 - Shipped AWS-based marketplace services for Helpicon covering **payments, chat, infrastructure automation, and microservice delivery**.
 - Delivered Azure warehouse and ETL systems for Palmetto Air Balance with **20+ pipelines**, reconciliation workflows, and operational dashboards.
 - Built large-scale retail data integrations for Pink Chicken, processing **millions of records** across Shopify, Apparel Magic, and Azure SQL.
@@ -65,8 +65,8 @@ Sports analytics platform processing rugby league data with custom performance m
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Associate (2024)
-- HashiCorp Certified: Terraform Associate (2024)
+- [AWS Certified Solutions Architect - Associate (2024)](https://www.credly.com/badges/9f649e53-5fca-4a2b-9d32-935d3da280f1) - Amazon Web Services (AWS)
+- [HashiCorp Certified: Terraform Associate (2024)](https://www.credly.com/badges/41cf43ff-e454-4191-8174-e54ee6856a14) - HashiCorp
 - [CKAD: Certified Kubernetes Application Developer (2026)](https://www.credly.com/badges/bea98d78-b0ee-4171-9e06-146ebde91bbf/public_url) - The Linux Foundation
 
 ## Contact
