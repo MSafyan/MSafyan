@@ -67,6 +67,7 @@ Sports analytics platform processing rugby league data with custom performance m
 
 - AWS Certified Solutions Architect - Associate (2024)
 - HashiCorp Certified: Terraform Associate (2024)
+- [CKAD: Certified Kubernetes Application Developer (2026)](https://www.credly.com/badges/bea98d78-b0ee-4171-9e06-146ebde91bbf/public_url) - The Linux Foundation
 
 ## Contact
 
