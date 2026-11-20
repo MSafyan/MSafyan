@@ -4,7 +4,7 @@
 
 I help clients build production systems that connect messy business processes to reliable software. My work spans backend platforms, cloud infrastructure, AI-powered product features, and enterprise data systems, with a focus on solutions that are scalable, cost-aware, and practical to operate.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-safyan--portfolio.vercel.app-0f172a?style=for-the-badge)](https://safyan-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsafyan.com-0f172a?style=for-the-badge)](https://muhammadsafyan.com)
 [![Email](https://img.shields.io/badge/Email-msafyan080%40gmail.com-1d4ed8?style=for-the-badge)](mailto:msafyan080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safyan--akram-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safyan-akram/)
 
@@ -89,5 +89,6 @@ Technical signal: supported data ingestion, reporting workflows, and read-optimi
 
 ## Contact
 
+- Website: [muhammadsafyan.com](https://muhammadsafyan.com)
 - Email: [msafyan080@gmail.com](mailto:msafyan080@gmail.com)
 - LinkedIn: [linkedin.com/in/safyan-akram](https://www.linkedin.com/in/safyan-akram/)
