@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Muhammad Safyan, Full-Stack, AI and Data Engineer">
+  <style>
+    .chip { opacity: 0; animation: rise .7s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: 66px 248px; }
+    @keyframes pulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: 0; transform: scale(2.2); } }
+    @media (prefers-reduced-motion: reduce) { .chip { animation: none; opacity: 1; } .pulse { animation: none; opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#2f3036"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0.45" stop-color="#0f1013" stop-opacity="1"/><stop offset="1" stop-color="#0f1013" stop-opacity="0"/></linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="298" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#0f1013"/>
+    <rect x="600" width="600" height="300" fill="url(#dots)"/>
+    <rect x="600" width="600" height="300" fill="url(#fade)"/>
+    <rect width="6" height="300" fill="#f08a55"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#2a2b31" stroke-width="2"/>
+  <text x="58" y="78" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3.5" fill="#f08a55">FULL-STACK · AI · DATA ENGINEERING</text>
+  <text x="56" y="146" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-1" fill="#ecebe6">Muhammad Safyan</text>
+  <text font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#a3a2ab">
+    <tspan x="58" y="190">Next.js and Node.js products, AI features that stay cheap to run,</tspan>
+    <tspan x="58" y="218">and data pipelines that make every team's numbers agree.</tspan>
+  </text>
+  <circle class="pulse" cx="66" cy="248" r="6" fill="#3fb950"/>
+  <circle cx="66" cy="248" r="5" fill="#3fb950"/>
+  <text x="82" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#ecebe6">Open to new projects</text>
+  <text x="238" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#a3a2ab">·</text>
+  <text x="252" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#f08a55">muhammadsafyan.com →</text>
+  <g class="chip" style="animation-delay:0.15s">
+    <rect x="852" y="58" width="290" height="62" rx="12" fill="#17181c" stroke="#2a2b31"/>
+    <text x="876" y="98" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#f08a55">95%</text>
+    <text x="941" y="96" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a3a2ab">lower LLM spend</text>
+  </g>
+  <g class="chip" style="animation-delay:0.30s">
+    <rect x="852" y="134" width="290" height="62" rx="12" fill="#17181c" stroke="#2a2b31"/>
+    <text x="876" y="174" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#f08a55">99.8%</text>
+    <text x="975" y="172" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a3a2ab">payment success</text>
+  </g>
+  <g class="chip" style="animation-delay:0.45s">
+    <rect x="852" y="210" width="290" height="62" rx="12" fill="#17181c" stroke="#2a2b31"/>
+    <text x="876" y="250" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#f08a55">50+</text>
+    <text x="941" y="248" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a3a2ab">data pipelines</text>
+  </g>
+</svg>
