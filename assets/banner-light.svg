@@ -26,22 +26,17 @@
   </text>
   <circle class="pulse" cx="66" cy="248" r="6" fill="#1a7f37"/>
   <circle cx="66" cy="248" r="5" fill="#1a7f37"/>
-  <text x="82" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#17171b">Open to new projects</text>
-  <text x="238" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#55555f">·</text>
-  <text x="252" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#b23c0d">muhammadsafyan.com →</text>
+  <text x="82" y="254" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16"><tspan fill="#17171b">Open to new projects</tspan><tspan dx="10" fill="#55555f">·</tspan><tspan dx="10" font-weight="600" fill="#b23c0d">muhammadsafyan.com →</tspan></text>
   <g class="chip" style="animation-delay:0.15s">
     <rect x="852" y="58" width="290" height="62" rx="12" fill="#ffffff" stroke="#e6e3dc"/>
-    <text x="876" y="98" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">95%</text>
-    <text x="941" y="96" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">lower LLM spend</text>
+    <text x="876" y="98"><tspan font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">95%</tspan><tspan dx="12" dy="-2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">lower LLM spend</tspan></text>
   </g>
   <g class="chip" style="animation-delay:0.30s">
     <rect x="852" y="134" width="290" height="62" rx="12" fill="#ffffff" stroke="#e6e3dc"/>
-    <text x="876" y="174" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">99.8%</text>
-    <text x="975" y="172" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">payment success</text>
+    <text x="876" y="174"><tspan font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">58x</tspan><tspan dx="12" dy="-2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">Google impressions</tspan></text>
   </g>
   <g class="chip" style="animation-delay:0.45s">
     <rect x="852" y="210" width="290" height="62" rx="12" fill="#ffffff" stroke="#e6e3dc"/>
-    <text x="876" y="250" font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">50+</text>
-    <text x="941" y="248" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">data pipelines</text>
+    <text x="876" y="250"><tspan font-family="Newsreader, ui-serif, Georgia, 'Times New Roman', serif" font-size="30" fill="#b23c0d">50+</tspan><tspan dx="12" dy="-2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#55555f">data pipelines</tspan></text>
   </g>
 </svg>
