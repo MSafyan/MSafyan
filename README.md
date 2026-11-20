@@ -75,6 +75,7 @@ New posts twice a week on [the blog](https://muhammadsafyan.com/blog).
 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9f649e53-5fca-4a2b-9d32-935d3da280f1/public_url) · Amazon Web Services
 - [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/bea98d78-b0ee-4171-9e06-146ebde91bbf/public_url) · The Linux Foundation
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/41cf43ff-e454-4191-8174-e54ee6856a14/public_url) · HashiCorp
 
 ## Work with me
 
