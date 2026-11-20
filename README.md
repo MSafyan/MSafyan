@@ -7,7 +7,6 @@ I build Next.js and Node.js products, add OpenAI features that stay cheap to run
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsafyan.com-0f172a?style=for-the-badge)](https://muhammadsafyan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safyanakram-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safyanakram/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110ed1cc027d85e0f)
-[![Email](https://img.shields.io/badge/Email-msafyan080%40gmail.com-1d4ed8?style=for-the-badge)](mailto:msafyan080@gmail.com)
 
 ## What I do
 
