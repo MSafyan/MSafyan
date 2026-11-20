@@ -1,34 +1,91 @@
-# Muhammad Safyan
+<a href="https://muhammadsafyan.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Muhammad Safyan, Full-Stack, AI and Data Engineer. Open to new projects at muhammadsafyan.com" src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-**Full-Stack, AI & Data Engineer** · 5+ years · freelance, working with teams in the US, UK, Sweden and Australia
+<p align="center">
+  <a href="https://muhammadsafyan.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-muhammadsafyan.com-b23c0d?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/safyanakram/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-safyanakram-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.upwork.com/freelancers/~0110ed1cc027d85e0f"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+</p>
 
-I build Next.js and Node.js products, add OpenAI features that stay cheap to run, and set up the data pipelines that make every team's numbers agree. Case studies, services and writing: **[muhammadsafyan.com](https://muhammadsafyan.com)**.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsafyan.com-0f172a?style=for-the-badge)](https://muhammadsafyan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-safyanakram-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safyanakram/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110ed1cc027d85e0f)
+I'm a freelance engineer with 5+ years of shipping for teams in the US, UK, Sweden and Australia. I build the product, wire in the AI, and set up the data underneath it, so one person can own the whole thing end to end.
 
 ## What I do
 
-- **[Full-stack development](https://muhammadsafyan.com/services/full-stack-development)**: Next.js front ends, Node.js and NestJS APIs, payments, and the AWS they run on. Built from scratch or rescued.
-- **[AI integration](https://muhammadsafyan.com/services/ai-integration)**: OpenAI and LangChain features such as matching, semantic search and summaries, with the cost per user kept in check.
-- **[Data engineering](https://muhammadsafyan.com/services/data-engineering)**: Azure Data Factory and Snowflake pipelines and warehouses, so every team reads the same numbers.
-- **[Technical SEO](https://muhammadsafyan.com/services/technical-seo)**: faster pages, structured data and indexing, fixed in the code.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://muhammadsafyan.com/services/full-stack-development">Full-stack development</a></b><br>
+      Next.js front ends, Node.js and NestJS APIs, payments, and the AWS they run on. Built from scratch or rescued.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://muhammadsafyan.com/services/ai-integration">AI integration</a></b><br>
+      OpenAI and LangChain features such as matching, semantic search and summaries, with the cost per user kept in check.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://muhammadsafyan.com/services/data-engineering">Data engineering</a></b><br>
+      Azure Data Factory and Snowflake pipelines and warehouses, so every team reads the same numbers.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://muhammadsafyan.com/services/technical-seo">Technical SEO</a></b><br>
+      Faster pages, structured data and indexing, fixed in the code, then content people actually search for.
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
-| Project | What I built | Result |
-|---|---|---|
-| [**Wesion** (Abundance Movement)](https://muhammadsafyan.com/work/wesion-ai-matching) · UK | NestJS back end and 11 AI services on OpenAI and Pinecone for member matching | **95% lower** LLM spend |
-| [**Helpicon**](https://muhammadsafyan.com/work/helpicon-marketplace) · Sweden | Marketplace back end: Stripe and Swish payments, Twilio messaging, ECS/EKS with Terraform | **99.8%** payment success, **10,000+** users |
-| [**Palmetto Air Balance**](https://muhammadsafyan.com/work/palmetto-data-warehouse) · USA | Azure warehouse with 50+ Data Factory pipelines across NetSuite, UKG and Air1 | **70% less** manual reporting, $40M+ portfolio visible |
-| [**Pink Chicken**](https://muhammadsafyan.com/work/pink-chicken-retail-data) · USA | Shopify and Apparel Magic unified into one Azure warehouse for 10+ stores | **1–3%** monthly sales gap closed |
-| [**Lead-gen platform**](https://muhammadsafyan.com/work/insurance-lead-gen-sites) · US agency | 19 Next.js sites from one codebase, with programmatic SEO and AI content | **533 → 6,271** weekly search impressions |
-| [**BrickDistrict**](https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce) | WooCommerce rebuild, technical SEO and automation | Lighthouse **60 → 98**, impressions **137 → 8,020**/week |
-| [**The Gala**](https://muhammadsafyan.com/work/the-gala-events-marketplace) | Laravel and React events marketplace with BNPL payments and payouts | 3 payment providers, 867 tests passing |
-| [**E-commerce ETL**](https://muhammadsafyan.com/work/ecommerce-intelligence-etl) | Snowflake and Snowpark pipeline for product data | Coverage **15% → 75%+**, 10–20x faster loads |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/wesion-ai-matching"><img alt="Wesion case study" src="https://muhammadsafyan.com/work/wesion-ai-matching/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/wesion-ai-matching">AI matching and recommendations at 5% of the cost</a></b><br>
+      <sub>Wesion (Abundance Movement) · UK · NestJS, OpenAI, LangChain, Pinecone</sub><br>
+      <b>95%</b> lower LLM spend · <b>11</b> AI services in production
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/helpicon-marketplace"><img alt="Helpicon case study" src="https://muhammadsafyan.com/work/helpicon-marketplace/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/helpicon-marketplace">A Swedish services marketplace with 99.8% payment success</a></b><br>
+      <sub>Helpicon · Sweden · Node.js, Stripe, Swish, AWS ECS/EKS, Terraform</sub><br>
+      <b>10,000+</b> active users · <b>&lt;200 ms</b> API responses
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/palmetto-data-warehouse"><img alt="Palmetto Air Balance case study" src="https://muhammadsafyan.com/work/palmetto-data-warehouse/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/palmetto-data-warehouse">One warehouse for a $40M project portfolio</a></b><br>
+      <sub>Palmetto Air Balance · USA · Azure Data Factory, Azure SQL, NetSuite, UKG</sub><br>
+      <b>50+</b> pipelines · <b>70%</b> less manual reporting
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/pink-chicken-retail-data"><img alt="Pink Chicken case study" src="https://muhammadsafyan.com/work/pink-chicken-retail-data/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/pink-chicken-retail-data">Retail numbers that finally match</a></b><br>
+      <sub>Pink Chicken · USA · Shopify GraphQL, Apparel Magic, Azure, Power BI</sub><br>
+      <b>10+</b> stores unified · <b>1–3%</b> sales gap closed · <b>$12K</b> a year saved
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/insurance-lead-gen-sites"><img alt="Lead-gen platform case study" src="https://muhammadsafyan.com/work/insurance-lead-gen-sites/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/insurance-lead-gen-sites">19 insurance lead-generation sites from one Next.js codebase</a></b><br>
+      <sub>US marketing agency · Next.js, Supabase, OpenAI, Search Console API</sub><br>
+      <b>1,233</b> pages indexed · <b>533 → 6,271</b> weekly impressions
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce"><img alt="BrickDistrict case study" src="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce/opengraph-image" width="100%"></a>
+      <b><a href="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce">58x more Google impressions for a LEGO e-commerce store</a></b><br>
+      <sub>BrickDistrict · WordPress, WooCommerce, Schema.org, Python</sub><br>
+      Lighthouse <b>60 → 98</b> · <b>137 → 8,020</b> weekly impressions
+    </td>
+  </tr>
+</table>
 
-More in the [full portfolio](https://muhammadsafyan.com/work).
+<p align="center"><a href="https://muhammadsafyan.com/work"><b>See all 10 case studies →</b></a></p>
 
 ## Recent writing
 
@@ -40,42 +97,29 @@ New posts twice a week on [the blog](https://muhammadsafyan.com/blog).
 
 ## Stack
 
-**Front end** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+  <img alt="Next.js, React, Angular, Tailwind CSS, TypeScript, Node.js, NestJS, Python, GraphQL" src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,ts,nodejs,nestjs,python,graphql&perline=9">
+  <br>
+  <img alt="PostgreSQL, MongoDB, Redis, Prisma, AWS, Azure, Terraform, Docker, Kubernetes, GitHub Actions" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,aws,azure,terraform,docker,kubernetes,githubactions&perline=10">
+</p>
 
-**Back end** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-
-**AI & data** &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0f766e?style=flat-square)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29b5e8?style=flat-square&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Cloud & DevOps** &nbsp;
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=ff9900)
-![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+**AI & data:** OpenAI · LangChain · Pinecone · RAG · Azure Data Factory · Snowflake · Snowpark · Power BI
 
 ## Certifications
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9f649e53-5fca-4a2b-9d32-935d3da280f1/public_url) · Amazon Web Services
-- [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/bea98d78-b0ee-4171-9e06-146ebde91bbf/public_url) · The Linux Foundation
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/41cf43ff-e454-4191-8174-e54ee6856a14/public_url) · HashiCorp
+<p>
+  <a href="https://www.credly.com/badges/9f649e53-5fca-4a2b-9d32-935d3da280f1/public_url"><img alt="AWS Certified Solutions Architect – Associate" src="https://muhammadsafyan.com/images/certs/aws.webp" height="96"></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/bea98d78-b0ee-4171-9e06-146ebde91bbf/public_url"><img alt="Certified Kubernetes Application Developer (CKAD)" src="https://muhammadsafyan.com/images/certs/ckad.webp" height="96"></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/41cf43ff-e454-4191-8174-e54ee6856a14/public_url"><img alt="HashiCorp Certified: Terraform Associate" src="https://muhammadsafyan.com/images/certs/terraform.webp" height="96"></a>
+</p>
 
-## Work with me
+AWS Solutions Architect – Associate · Certified Kubernetes Application Developer · HashiCorp Terraform Associate
 
-Have a product to build, an AI feature to add, or numbers that don't match? [Tell me about it](https://muhammadsafyan.com/contact) or email [msafyan080@gmail.com](mailto:msafyan080@gmail.com).
+---
+
+<p align="center">
+  <b>Have a product to build, an AI feature to add, or numbers that don't match?</b><br>
+  <a href="https://muhammadsafyan.com/contact">Tell me about it</a> · <a href="mailto:msafyan080@gmail.com">msafyan080@gmail.com</a>
+</p>
