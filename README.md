@@ -60,13 +60,13 @@ I'm a freelance engineer with 5+ years of shipping for teams in the US, UK, Swed
       <a href="https://muhammadsafyan.com/work/palmetto-data-warehouse"><img alt="Palmetto Air Balance case study" src="https://muhammadsafyan.com/work/palmetto-data-warehouse/opengraph-image" width="100%"></a>
       <b><a href="https://muhammadsafyan.com/work/palmetto-data-warehouse">Palmetto Air Balance</a></b><br>
       <sub>USA · Azure Data Factory, Azure SQL, NetSuite, UKG</sub><br>
-      <b>50+</b> pipelines · <b>70%</b> less manual reporting
+      <b>1M+</b> records a day · <b>70%</b> less manual reporting
     </td>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/pink-chicken-retail-data"><img alt="Pink Chicken case study" src="https://muhammadsafyan.com/work/pink-chicken-retail-data/opengraph-image" width="100%"></a>
       <b><a href="https://muhammadsafyan.com/work/pink-chicken-retail-data">Pink Chicken</a></b><br>
       <sub>USA · Shopify GraphQL, Apparel Magic, Azure, Power BI</sub><br>
-      <b>10+</b> stores unified · <b>1–3%</b> sales gap closed · <b>$12K</b> a year saved
+      <b>50+</b> pipelines · <b>10+</b> stores · <b>1–3%</b> sales gap closed
     </td>
   </tr>
   <tr>
