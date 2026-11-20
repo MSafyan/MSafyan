@@ -1,7 +1,7 @@
 <a href="https://muhammadsafyan.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Muhammad Safyan, Full-Stack, AI and Data Engineer. Open to new projects at muhammadsafyan.com" src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+    <img alt="Muhammad Safyan, Full-Stack, AI and Data Engineer. Open to new projects at muhammadsafyan.com" src="assets/banner-light.svg?v=2" width="100%">
   </picture>
 </a>
 
