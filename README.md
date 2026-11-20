@@ -44,42 +44,42 @@ I'm a freelance engineer with 5+ years of shipping for teams in the US, UK, Swed
   <tr>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/wesion-ai-matching"><img alt="Wesion case study" src="https://muhammadsafyan.com/work/wesion-ai-matching/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/wesion-ai-matching">AI matching and recommendations at 5% of the cost</a></b><br>
-      <sub>Wesion (Abundance Movement) · UK · NestJS, OpenAI, LangChain, Pinecone</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/wesion-ai-matching">Wesion (Abundance Movement)</a></b><br>
+      <sub>UK · NestJS, OpenAI, LangChain, Pinecone</sub><br>
       <b>95%</b> lower LLM spend · <b>11</b> AI services in production
     </td>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/helpicon-marketplace"><img alt="Helpicon case study" src="https://muhammadsafyan.com/work/helpicon-marketplace/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/helpicon-marketplace">A Swedish services marketplace with 99.8% payment success</a></b><br>
-      <sub>Helpicon · Sweden · Node.js, Stripe, Swish, AWS ECS/EKS, Terraform</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/helpicon-marketplace">Helpicon</a></b><br>
+      <sub>Sweden · Node.js, Stripe, Swish, AWS ECS/EKS, Terraform</sub><br>
       <b>10,000+</b> active users · <b>&lt;200 ms</b> API responses
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/palmetto-data-warehouse"><img alt="Palmetto Air Balance case study" src="https://muhammadsafyan.com/work/palmetto-data-warehouse/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/palmetto-data-warehouse">One warehouse for a $40M project portfolio</a></b><br>
-      <sub>Palmetto Air Balance · USA · Azure Data Factory, Azure SQL, NetSuite, UKG</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/palmetto-data-warehouse">Palmetto Air Balance</a></b><br>
+      <sub>USA · Azure Data Factory, Azure SQL, NetSuite, UKG</sub><br>
       <b>50+</b> pipelines · <b>70%</b> less manual reporting
     </td>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/pink-chicken-retail-data"><img alt="Pink Chicken case study" src="https://muhammadsafyan.com/work/pink-chicken-retail-data/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/pink-chicken-retail-data">Retail numbers that finally match</a></b><br>
-      <sub>Pink Chicken · USA · Shopify GraphQL, Apparel Magic, Azure, Power BI</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/pink-chicken-retail-data">Pink Chicken</a></b><br>
+      <sub>USA · Shopify GraphQL, Apparel Magic, Azure, Power BI</sub><br>
       <b>10+</b> stores unified · <b>1–3%</b> sales gap closed · <b>$12K</b> a year saved
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/insurance-lead-gen-sites"><img alt="Lead-gen platform case study" src="https://muhammadsafyan.com/work/insurance-lead-gen-sites/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/insurance-lead-gen-sites">19 insurance lead-generation sites from one Next.js codebase</a></b><br>
-      <sub>US marketing agency · Next.js, Supabase, OpenAI, Search Console API</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/insurance-lead-gen-sites">US marketing agency</a></b><br>
+      <sub>Next.js, Supabase, OpenAI, Search Console API</sub><br>
       <b>1,233</b> pages indexed · <b>533 → 6,271</b> weekly impressions
     </td>
     <td width="50%" valign="top">
       <a href="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce"><img alt="BrickDistrict case study" src="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce/opengraph-image" width="100%"></a>
-      <b><a href="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce">58x more Google impressions for a LEGO e-commerce store</a></b><br>
-      <sub>BrickDistrict · WordPress, WooCommerce, Schema.org, Python</sub><br>
+      <b><a href="https://muhammadsafyan.com/work/brickdistrict-seo-ecommerce">BrickDistrict</a></b><br>
+      <sub>WordPress, WooCommerce, Schema.org, Python</sub><br>
       Lighthouse <b>60 → 98</b> · <b>137 → 8,020</b> weekly impressions
     </td>
   </tr>
